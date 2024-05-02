@@ -1,0 +1,21 @@
+body {
+    background-color: #ff3f3f; 
+}
+
+h1, h2 {
+    color: #ffd900;
+    background-color: #000000;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: #000000; /* amarelo */
+    color: #ff0000; /* vermelho */
+}
+
+p {
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
+}

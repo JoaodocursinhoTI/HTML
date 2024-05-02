@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffcc; /* amarelo claro */
+}
+
+h1, h2 {
+    color: #ffffff; /* branco */
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: #ffff00; /* amarelo */
+    color: #ff0000; /* vermelho */
+}
+
+p {
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
+}
