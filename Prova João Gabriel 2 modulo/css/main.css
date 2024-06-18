@@ -1,6 +1,5 @@
 main {
   padding: 5%;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -32,14 +31,16 @@ main .main-content .text p {
 /* CARDS ================== */
 main .techs .cards-container {
   display: flex;
+
   align-items: center;
+   
 }
 
 main .techs .cards-container .card {
   width: 120px;
   height: 120px;
   padding: 10px;
-  background-color: #ffffff;
+  background-color: #535050;
   border-radius: 8px;
   margin-right: 0.9em;
   margin-left: 0.9em;
@@ -57,7 +58,7 @@ main .techs .cards-container .card img {
 }
 
 main .techs .cards-container .card:hover {
-  box-shadow: 0px 0px 8px #2bff00;
+  box-shadow: 0px 0px 8px #08abec;
 }
 
 /* FIGURE ============= */
@@ -75,10 +76,10 @@ main figure img {
 
   margin-bottom: 6%;
   cursor: pointer;
-  border: 1px #2bff00 solid;
+  border: 1px #08abec solid;
   transition: 0.2s ease-in-out;
 }
 
 main figure img:hover {
-  box-shadow: 0px 0px 6px #09ff00;
+  box-shadow: 0px 0px 6px #08abec;
 }
