@@ -44,7 +44,7 @@ function funcaoDoJavaScript(acao) {
         }
 
         // Exemplo de atualização
-        updateRecord("respiberry", 0, 0, 1, 0);
+        updateRecord("respiberry", 1, 1, 0, 0);
 
         // Adicione aqui o código que deseja executar para a ação "frente"
     } else if (acao === 're') {
