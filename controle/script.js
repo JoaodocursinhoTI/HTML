@@ -44,7 +44,7 @@ function funcaoDoJavaScript(acao) {
         }
 
         // Exemplo de atualização
-        updateRecord("respiberry", 1, 1, 0, 0);
+        updateRecord("respiberry", 1, 1, 1, 0);
 
         // Adicione aqui o código que deseja executar para a ação "frente"
     } else if (acao === 're') {
@@ -90,7 +90,7 @@ function funcaoDoJavaScript(acao) {
             }
         }
         // Exemplo de atualização
-        updateRecord("respiberry", 0, 0, 0, 1);
+        updateRecord("respiberry", 0, 0, 1, 0);
     } else if (acao === 'esquerda') {
         // Se o botão "esquerda" for clicado
 
@@ -134,7 +134,7 @@ function funcaoDoJavaScript(acao) {
             }
         }
         // Exemplo de atualização
-        updateRecord("respiberry", 0, 1, 0, 0);
+        updateRecord("respiberry", 0, 1, 1, 0);
     } else if (acao === 'direita') {
         // Se o botão "direita" for clicado
 
@@ -178,7 +178,7 @@ function funcaoDoJavaScript(acao) {
             }
         }
         // Exemplo de atualização
-        updateRecord("respiberry", 1, 0, 0, 0);
+        updateRecord("respiberry", 1, 0, 1, 0);
 
     } else if (acao === 'pare') {
             // Se o botão "direita" for clicado
