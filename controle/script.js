@@ -90,7 +90,7 @@ function funcaoDoJavaScript(acao) {
             }
         }
         // Exemplo de atualização
-        updateRecord("respiberry", 0, 0, 1, 0);
+        updateRecord("respiberry", 0, 0, 0, 1);
     } else if (acao === 'esquerda') {
         // Se o botão "esquerda" for clicado
 
